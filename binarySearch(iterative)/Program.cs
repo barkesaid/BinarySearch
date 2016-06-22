@@ -8,6 +8,7 @@ namespace binarySearch_iterative_
 {
     class Program
     {
+        //useless comment
         static void Main(string[] args)
         {
             //nothing much 
