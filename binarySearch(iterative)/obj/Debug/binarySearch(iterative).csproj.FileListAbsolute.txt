@@ -1,0 +1,12 @@
+C:\Users\barkesaid\Documents\Visual Studio 2015\Projects\binarySearch(iterative)\binarySearch(iterative)\bin\Debug\binarySearch(iterative).exe.config
+C:\Users\barkesaid\Documents\Visual Studio 2015\Projects\binarySearch(iterative)\binarySearch(iterative)\bin\Debug\binarySearch(iterative).exe
+C:\Users\barkesaid\Documents\Visual Studio 2015\Projects\binarySearch(iterative)\binarySearch(iterative)\bin\Debug\binarySearch(iterative).pdb
+C:\Users\barkesaid\Documents\Visual Studio 2015\Projects\binarySearch(iterative)\binarySearch(iterative)\obj\Debug\binarySearch(iterative).csprojResolveAssemblyReference.cache
+C:\Users\barkesaid\Documents\Visual Studio 2015\Projects\binarySearch(iterative)\binarySearch(iterative)\obj\Debug\binarySearch(iterative).exe
+C:\Users\barkesaid\Documents\Visual Studio 2015\Projects\binarySearch(iterative)\binarySearch(iterative)\obj\Debug\binarySearch(iterative).pdb
+C:\Users\BARKE\Documents\Visual Studio 2015\Projects\binarySearch(iterative)\binarySearch(iterative)\bin\Debug\binarySearch(iterative).exe.config
+C:\Users\BARKE\Documents\Visual Studio 2015\Projects\binarySearch(iterative)\binarySearch(iterative)\obj\Debug\binarySearch(iterative).exe
+C:\Users\BARKE\Documents\Visual Studio 2015\Projects\binarySearch(iterative)\binarySearch(iterative)\obj\Debug\binarySearch(iterative).pdb
+C:\Users\BARKE\Documents\Visual Studio 2015\Projects\binarySearch(iterative)\binarySearch(iterative)\bin\Debug\binarySearch(iterative).exe
+C:\Users\BARKE\Documents\Visual Studio 2015\Projects\binarySearch(iterative)\binarySearch(iterative)\bin\Debug\binarySearch(iterative).pdb
+C:\Users\BARKE\Documents\Visual Studio 2015\Projects\binarySearch(iterative)\binarySearch(iterative)\obj\Debug\binarySearch(iterative).csprojResolveAssemblyReference.cache
